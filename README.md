@@ -1,3 +1,5 @@
-# stream-event
+# MapExt
 
-Manage event as stream
+Extended Map class for JavaScript.
+
+**It will change your Map class!!! You have been warned!**
